@@ -9,7 +9,7 @@ To better understand this system, you can pay attention to the capabilities of t
 
 <!-- Some features -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Some features</summary>
   <ol>
     <li><a href="#">Build infinite score tables</a></li>
     <li><a href="#">Build infinite achievements</a></li>
