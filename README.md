@@ -31,7 +31,7 @@ To better understand this system, you can pay attention to the capabilities of t
   </ol>
 </details>
 
-:exclamation: Node Downloader only works with [NW.js](http://nwjs.io) (and [Electron](http://electron.atom.io)).
+:exclamation: All server-side code is encoded with [ioncube](https://www.ioncube.com/).
 ## Actions
 #### Start download a file
 Starts download a file.
