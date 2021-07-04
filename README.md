@@ -11,7 +11,7 @@ To better understand this system, you can pay attention to the capabilities of t
 <details open="open">
   <summary>Some features</summary>
   <ol>
-    <li><a href="#">Build infinite score tables</a></li>
+    <li><a>Build infinite score tables</a></li>
     <li><a href="#">Build infinite achievements</a></li>
     <li><a href="#">Manage scores and achievements from the admin panel</a></li>
     <li><a href="#">Easy installation on hosts with training</a></li>
