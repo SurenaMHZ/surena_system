@@ -7,7 +7,7 @@ This system, along with its capabilities, creates the desired security and satis
 
 To better understand this system, you can pay attention to the capabilities of this system
 
-<!-- TABLE OF CONTENTS -->
+<!-- Some features -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
