@@ -50,5 +50,16 @@ This system has Construct 2 and Constrict 3 plugins
 With proper support and feedback, I will add new features to this system and extend it for use in other languages.
 
 
-[![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(85).png)](http://https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(85).png)
+## Installation and activation steps:
+#### 1.	Upload all the PHP files to you server
+#### 2.	go to the respective domain in the admin folder
+#### 3.	3you'll now get redirected to the Setup page.
+#### 4.	Please type in all your data, and be sure you get the Success message.
+
+#### 5.	When you first log in, you will see the following page
+#### 6.	One option is to download the plugin and the other option is to download your private key
+#### 7.	After downloading your plugin and private key, do step 2 again
+#### 8.	Upload your private key somewhere and copy the link
+#### 9.	Go to the admin page and enter your private key link there
+#### 10.	Select the Save Link option
 
