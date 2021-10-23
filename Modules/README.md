@@ -7,7 +7,7 @@ Modules are divided into four main categories:
 3.Languages 
 4.Fonts
 
-#### Plugins:
+## Plugins:
 There are codes for the panel that are used to evolve the panel and provide more capabilities to the user.
 Plugins in two categories:
 1. **Object**: Plugins that do not have a user interface in the panel and can only be used in the api
