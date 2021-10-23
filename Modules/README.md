@@ -42,12 +42,13 @@ This file is present in all modules and its structure varies depending on the ty
 **Module_Version***. is a module version that can be changed in various updates
 
 **Module_Type***. is the type of module that we have already introduced and divided into four main categories, and for the type of module we can use the following parameters:
-
+```
     Object  -or object
     World –or world
     Language –or language –or Lan –or lan
     Theme –or theme
     Font –or font
+```
 **Module_Github**. There is a module link in GitHub where documents or anything can be placed
 **Module_Description**. Module description
 **Module_Manufacturer_Name**. The name of the module builder
@@ -228,10 +229,10 @@ And finally the file structure “**Information.json**” we get as follows
 }
 ```
 And the file structure of our module is as follows
-   ```
+```
    Information.json
-    Theme.css	
-	```
+   Theme.css	
+```
 	
 ## Fonts:
 
