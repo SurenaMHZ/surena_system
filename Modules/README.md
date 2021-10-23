@@ -20,7 +20,7 @@ There are modules that change the system language in the user interface and back
 ## Fonts:
 There are modules that change the font of the system interface surena panel
 
-### Module structure:
+## Module structure:
  As you have read. Modules are divided into different categories and, as expected, have different structures, but some of these structures are the same.
  These “**Information.json**” All modules have a file called
 This file introduces the module to the Surena system and has a Json structure
@@ -54,7 +54,7 @@ This file is present in all modules and its structure varies depending on the ty
 **Module_Manufacturer_Web**. The link to the site or blog is the builder of the module
 **Module_Manufacturer_Gmail**. Electronic address of the module manufacturer
 In the continuation of the file “**Information.json**” according to the type of module, it completes its structure
-#### Plugins:
+## Plugins:
 ```json
 {
 "Module_Require_files":["test1.php","test2.php"]
@@ -150,7 +150,7 @@ Test2.php
 ```
 Above is an example for the plugin with explanations that this is the same structure between the two types of plugins (**object** and **world**), but if our plugin type was global, another file must be added to the plugin called “**index.php**” Module user interface codes are written for the panel, which should be referenced using CSS for beautification.
 
-#### languages:
+## languages:
 Has a file “**Language.php**”
 Where is the reference and patterning of the reference language file. A new language is being written
 Consider the following example:
@@ -211,7 +211,7 @@ And the file structure of our module is as follows
     Information.json
      Language.php
 ```
-#### themes:
+## themes:
 Has a file called Theme.css
 Are where the CSS codes are defined according to the pattern of the reference CSS file
 And finally the file structure “**Information.json**” we get as follows
@@ -232,7 +232,7 @@ And the file structure of our module is as follows
    Information.json
     Theme.css	
 	```
-#### Fonts:
+## Fonts:
 ```json
 {
 "Font_Type":"OTF"
@@ -246,9 +246,8 @@ And has a file
 ```font.ttf```
 This is a font file
 
-> Note that in the file“**Information.json**” the font type must be uppercase and the file extension must be lowercase
+>Note that in the file“**Information.json**” the font type must be uppercase and the file extension must be lowercase
 
-### Attention:
-> ** The names of all system files that must be inside the module must be named as mentioned here (their names should not be uppercase and lowercase) **
-
-##### Finally, to publish the module, we need to convert all the relevant files to a “zip” file, then the file extension to ”ssm”which stands for“surena system module”is converting.
+## Attention:
+>The names of all system files that must be inside the module must be named as mentioned here (their names should not be uppercase and lowercase)
+Finally, to publish the module, we need to convert all the relevant files to a “zip” file, then the file extension to ”ssm”which stands for“surena system module”is converting.
