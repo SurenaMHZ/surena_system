@@ -1,5 +1,5 @@
 # SURENA SYSTEM
-![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(97).png)
+![](https://github.com/SurenaMHZ/surena_system/blob/main/gallery/Screenshot%20(97).png)
 A system for professionally managing your project data
 This system with a beautiful and organized user interface makes managing your project data easy and convenient,So you no longer have to worry about managing your project data
 
@@ -54,15 +54,15 @@ With proper support and feedback, I will add new features to this system and ext
 #### 2.	go to the respective domain in the admin folder
 #### 3.	3you'll now get redirected to the Setup page.
 #### 4.	Please type in all your data, and be sure you get the Success message.
-![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(88).png)
+![](https://github.com/SurenaMHZ/surena_system/blob/main/gallery/Screenshot%20(88).png)
 #### 5.	When you first log in, you will see the following page
-![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(85).png)
+![](https://github.com/SurenaMHZ/surena_system/blob/main/gallery/Screenshot%20(85).png)
 #### 6.	One option is to download the plugin and the other option is to download your private key
 #### 7.	After downloading your plugin and private key, do step 2 again
 #### 8.	Upload your private key somewhere and copy the link
 #### 9.	Go to the admin page and enter your private key link there
-![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(89).png)
-![](https://github.com/SurenaMHZ/surena_system/blob/main/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1/Screenshot%20(87).png)
+![](https://github.com/SurenaMHZ/surena_system/blob/main/gallery/Screenshot%20(89).png)
+![](https://github.com/SurenaMHZ/surena_system/blob/main/gallery/Screenshot%20(87).png)
 #### 10.	Select the Save Link option
 ###Installation and activation steps completed
 
