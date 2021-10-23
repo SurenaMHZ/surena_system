@@ -1,7 +1,7 @@
 # Modules:
 For the evolution of Surena system and the ability of professional personalization, there is the ability to use codes, fonts, themes, etc. in the third person, which are called modules.
 Modules are divided into four main categories
-** 1.Plugins 2.Themes 3.Languages 4.Fonts**
+** 1.Plugins 2.Themes 3.Languages 4.Fonts **
 #### Plugins:
 There are codes for the panel that are used to evolve the panel and provide more capabilities to the user.
 Plugins in two categories:
