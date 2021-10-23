@@ -13,11 +13,11 @@ Plugins in two categories:
 1. **Object**: Plugins that do not have a user interface in the panel and can only be used in the api
 2. **World**: Plugins that have both a user interface in the panel and can function in the api
 
-#### themes:
+## themes:
 There are modules that can be used to change and customize the user interface
-#### languages:
+## languages:
 There are modules that change the system language in the user interface and background
-#### Fonts:
+## Fonts:
 There are modules that change the font of the system interface surena panel
 
 ### Module structure:
