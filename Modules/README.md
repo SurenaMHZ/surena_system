@@ -232,18 +232,27 @@ And the file structure of our module is as follows
    Information.json
     Theme.css	
 	```
+	
 ## Fonts:
+
 ```json
 {
 "Font_Type":"OTF"
 }
 ```
+
 There is a type of font that has two categories
+
 ```
 TTF
-OTF```
+OTF
+```
+
 And has a file
-```font.ttf```
+```
+font.ttf
+```
+
 This is a font file
 
 >Note that in the file“**Information.json**” the font type must be uppercase and the file extension must be lowercase
